@@ -1,4 +1,4 @@
-# 💫 About Me:I'm Ramya Mohan
+# 💫 About Me:I'm Ramya
  I'm currently pursuing my BE in CSE department and iam currently learning python
 
 
